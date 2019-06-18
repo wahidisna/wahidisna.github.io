@@ -1,5 +1,9 @@
-[ {
-        "url": "https:\/\/www.nytimes.com\/interactive\/2019\/06\/12\/travel\/traveling-europe-summer-crowds.html", "adx_keywords": "Travel and Vacations;Tinos (Greece);Delft (Netherlands);Hague (Netherlands);Valencia (Spain);Kotor (Montenegro);Olomouc (Czech Republic);Lucca (Italy);Europe", "subsection":"", "email_count":1, "count_type":"EMAILED", "column":"", "eta_id":0, "section":"Travel", "id":100000006547150, "asset_id":100000006547150, "nytdsection":"travel", "byline":"", "type":"Interactive", "title":"60 Places in Europe Offering Shelter From the Crowds", "abstract":"Daytrippers, cruise ships, home-sharing, cheap airlines: They all contribute to tourism saturation in European hotspots. But there are quieter alternatives, if you know where to look.", "published_date":"2019-06-12", "source":"The New York Times", "updated":"2019-06-16 07:35:15", "des_facet":["TRAVEL AND VACATIONS"], "org_facet":"", "per_facet":"", "geo_facet":["TINOS (GREECE)", "DELFT (NETHERLANDS)", "HAGUE (NETHERLANDS)", "VALENCIA (SPAIN)", "KOTOR (MONTENEGRO)", "OLOMOUC (CZECH REPUBLIC)", "LUCCA (ITALY)", "EUROPE"], "media":[ {
+{
+    "status":"OK",
+    "copyright":"Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+    "num_results":615,
+    "results":[ {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2019\/06\/12\/travel\/traveling-europe-summer-crowds.html", "adx_keywords": "Travel and Vacations;Tinos (Greece);Delft (Netherlands);Hague (Netherlands);Valencia (Spain);Kotor (Montenegro);Olomouc (Czech Republic);Lucca (Italy);Europe", "subsection":"", "email_count":1, "count_type":"EMAILED", "column":"", "eta_id":0, "section":"Travel", "id":100000006547150, "asset_id":100000006547150, "nytdsection":"travel", "byline":"", "type":"Interactive", "title":"61 Places in Europe Offering Shelter From the Crowds", "abstract":"Daytrippers, cruise ships, home-sharing, cheap airlines: They all contribute to tourism saturation in European hotspots. But there are quieter alternatives, if you know where to look.", "published_date":"2019-06-12", "source":"The New York Times", "updated":"2019-06-16 07:35:15", "des_facet":["TRAVEL AND VACATIONS"], "org_facet":"", "per_facet":"", "geo_facet":["TINOS (GREECE)", "DELFT (NETHERLANDS)", "HAGUE (NETHERLANDS)", "VALENCIA (SPAIN)", "KOTOR (MONTENEGRO)", "OLOMOUC (CZECH REPUBLIC)", "LUCCA (ITALY)", "EUROPE"], "media":[ {
             "type":"image", "subtype":"photo", "caption":"Valencia, Spain.", "copyright":"Emilio Parra Doiztua for The New York Times", "approved_for_syndication":1, "media-metadata":[ {
                 "url": "https:\/\/static01.nyt.com\/images\/2019\/06\/16\/travel\/13europe-valencia\/13europe-valencia-thumbStandard-v2.jpg", "format": "Standard Thumbnail", "height": 75, "width": 75
             }
@@ -377,4 +381,5 @@
         ],
         "uri":"nyt:\/\/article\/3a5ba81f-1dc4-5921-8698-bb17c0a06986"
     }
-]
+    ]
+}
