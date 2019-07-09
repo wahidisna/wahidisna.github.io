@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "section": "Traveloka",
+      "id": 100000006547150,
+      "title": "64 Places in Europe Offering Shelter From the Crowds",
+      "abstract": "Daytrippers, cruise ships,<br>home-sharing,<br>cheap <b>airlines:</b> They all contribute to tourism saturation in European hotspots. But there are quieter alternatives, if you know where to look.  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/06/16/travel/13europe-valencia/13europe-valencia-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/16/travel/13europe-valencia/13europe-valencia-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/16/travel/13europe-valencia/13europe-valencia-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://interactive/b6a694f1-3666-51dd-a208-261b21ab2276"
+    },
+    {
+      "section": "Opinion",
+      "id": 100000006541919,
+      "title": "1The Business of Health Care Depends on Exploiting Doctors and Nurses",
+      "abstract": "One resource seems infinite and free: the professionalism of caregivers.",
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/06/09/opinion/sunday/09ofri/09ofri-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/09/opinion/sunday/09ofri/09ofri-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/06/09/opinion/sunday/09ofri/09ofri-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/5d42b3a1-de4c-5e6b-9ea4-4bd0a552e73e"
+    }
+  ]
+}
