@@ -9,27 +9,11 @@
         {
           "media-metadata": [
             {
-              "url": "https://static01.nyt.com/images/2019/06/16/travel/13europe-valencia/13europe-valencia-thumbStandard-v2.jpg",
-              "format": "Standard Thumbnail",
-              "height": 75,
-              "width": 75
-            },
-            {
-              "url": "https://static01.nyt.com/images/2019/06/16/travel/13europe-valencia/13europe-valencia-mediumThreeByTwo210-v2.jpg",
-              "format": "mediumThreeByTwo210",
-              "height": 140,
-              "width": 210
-            },
-            {
               "url": "https://static01.nyt.com/images/2019/06/16/travel/13europe-valencia/13europe-valencia-mediumThreeByTwo440-v2.jpg",
-              "format": "mediumThreeByTwo440",
-              "height": 293,
-              "width": 440
             }
           ]
         }
-      ],
-      "uri": "nyt://interactive/b6a694f1-3666-51dd-a208-261b21ab2276"
+      ]
     },
     {
       "section": "Opinion",
@@ -40,27 +24,11 @@
         {
           "media-metadata": [
             {
-              "url": "https://static01.nyt.com/images/2019/06/09/opinion/sunday/09ofri/09ofri-thumbStandard.jpg",
-              "format": "Standard Thumbnail",
-              "height": 75,
-              "width": 75
-            },
-            {
-              "url": "https://static01.nyt.com/images/2019/06/09/opinion/sunday/09ofri/09ofri-mediumThreeByTwo210.jpg",
-              "format": "mediumThreeByTwo210",
-              "height": 140,
-              "width": 210
-            },
-            {
               "url": "https://static01.nyt.com/images/2019/06/09/opinion/sunday/09ofri/09ofri-mediumThreeByTwo440.jpg",
-              "format": "mediumThreeByTwo440",
-              "height": 293,
-              "width": 440
             }
           ]
         }
-      ],
-      "uri": "nyt://article/5d42b3a1-de4c-5e6b-9ea4-4bd0a552e73e"
+      ]
     }
   ]
 }
