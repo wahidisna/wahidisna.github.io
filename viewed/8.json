@@ -5,30 +5,26 @@
       "id": 100000006547150,
       "title": "64 Places in Europe Offering Shelter From the Crowds",
       "abstract": "Daytrippers, cruise ships,<br>home-sharing,<br>cheap <b>airlines:</b> They all contribute to tourism saturation in European hotspots. But there are quieter alternatives, if you know where to look.  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "media": [
+      "media":
         {
-          "media-metadata": [
+          "media-metadata": 
             {
               "url": "https://static01.nyt.com/images/2019/06/16/travel/13europe-valencia/13europe-valencia-mediumThreeByTwo440-v2.jpg",
             }
-          ]
         }
-      ]
     },
     {
       "section": "Opinion",
       "id": 100000006541919,
       "title": "1The Business of Health Care Depends on Exploiting Doctors and Nurses",
       "abstract": "One resource seems infinite and free: the professionalism of caregivers.",
-      "media": [
+      "media":
         {
-          "media-metadata": [
+          "media-metadata":
             {
               "url": "https://static01.nyt.com/images/2019/06/09/opinion/sunday/09ofri/09ofri-mediumThreeByTwo440.jpg",
             }
-          ]
         }
-      ]
     }
   ]
 }
